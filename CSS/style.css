@@ -1,0 +1,36 @@
+#heading{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+	font-family: 'special Elite', cursive;
+}
+
+.sub-heading{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Special Elite', cursive;
+}
+
+body{
+	background-color: #FFFFFF;
+}
+
+.paragraph{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 108%;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+}
+
+.gif{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}

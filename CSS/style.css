@@ -1,3 +1,6 @@
+
+
+
 #heading{
 	width: 85%;
 	margin-left: auto;
@@ -16,7 +19,16 @@
 }
 
 body{
+
+	opacity: 1;
+	transition: 1s opacity;
 	background-color: #FFFFFF;
+}
+
+body.fade-out{
+
+	opacity: 0;
+	transition: none;
 }
 
 .paragraph{

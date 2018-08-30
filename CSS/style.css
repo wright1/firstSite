@@ -23,7 +23,7 @@ body{
 	
 	background-color: #FFFFFF;
 	-webkit-animation-name: fadeout;
-	-webkit-animation-duration: 4s;
+	-webkit-animation-duration: 3s;
 	-webkit-animation-timing-function: ease-in;
 
 }
